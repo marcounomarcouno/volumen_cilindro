@@ -1,5 +1,3 @@
-from math import pi
-
 
 PI = 3.1415926535
 
